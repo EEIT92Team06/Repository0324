@@ -5,20 +5,31 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Home</title>
+
+<title>Home   </title>
 </head>
 <body>
 
+<<<<<<< HEAD
 <h3>Welcome ${user.custid}</h3>
 <<<<<<< HEAD
-<h1>XXXXXXXXXXXXXXXXXFFFFFFFFFFFFFFF阿賢FFFF</h1>
+<h1>XXXXXXXXXXXFF阿賢XXXXXXFFFFFFFFFFFFFFF阿賢FFFF</h1>
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 =======
+=======
+<h3>Welcome ${user.custid}   </h3>
+>>>>>>> branch 'master' of https://github.com/EEIT92Team06/Repository0324.git
 
+<<<<<<< HEAD
 <h3><a href="<c:url value="/secure/login.jsp" />">Loginsdf</a></h3>
 >>>>>>> branch 'master' of https://github.com/EEIT92Team06/Repository0324.git
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
+=======
+<h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+
+51111
+>>>>>>> branch 'master' of https://github.com/EEIT92Team06/Repository0324.git
 
 </body>
 </html>
