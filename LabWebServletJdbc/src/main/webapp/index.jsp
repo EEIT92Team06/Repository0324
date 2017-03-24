@@ -10,9 +10,14 @@
 <body>
 
 <h3>Welcome ${user.custid}</h3>
-<h1>XXXXXXXXXXXXXXXXXFFFFFFFFFFFFFFFFFFF</h1>
+<<<<<<< HEAD
+<h1>XXXXXXXXXXXXXXXXXFFFFFFFFFFFFFFF阿賢FFFF</h1>
 
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
+=======
+
+<h3><a href="<c:url value="/secure/login.jsp" />">Loginsdf</a></h3>
+>>>>>>> branch 'master' of https://github.com/EEIT92Team06/Repository0324.git
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 
 </body>
